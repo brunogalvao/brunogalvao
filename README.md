@@ -12,6 +12,6 @@ comentarios
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web Design Front-end**
-- 🌱 I’m currently learning Any **Framework JS/CSS**
-- 🤔 I’m looking for help with Any question
+- 🌱 I’m currently learning **Framework JS/CSS**
+- 🤔 I’m looking for help with the best pratique
 - 📫 How to reach me: https://brunoogalvao.com.br/
