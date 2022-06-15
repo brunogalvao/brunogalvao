@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bruno_galvao@outlook.com**
 
-- 📄 Know about my experiences [brunoogalvao.com.br](brunoogalvao.com.br)
+- 📄 my personal website [brunoogalvao.com.br](brunoogalvao.com.br)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
