@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Galvão</h1>
-<h3 align="center">Apenas mais um estudante de FrontEnd / UX UI.</h3>
+<h3 align="center">Apenas mais um estudante de FrontEnd / Desemvolvedor.</h3>
 
 - 🔭 I’m currently working on **My studies**
 
