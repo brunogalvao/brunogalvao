@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bruno Galvão</h1>
 <h3 align="center">Apenas mais um estudante de FrontEnd / Desenvolvedor.</h3>
 
-- 🔭 I’m currently working on **My studies**
-
 - 🌱 I’m currently learning **Frameworks and JavaScript**
 
 - 👯 I’m looking to collaborate on **All project's**
